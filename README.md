@@ -11,3 +11,15 @@ End Retransmission Timer for Reliable Unicast Transport
 - Wireless 802.11 (static) network using AODV routing in Random topology
 - Wireless 802.15.4 (static) network using Ripng routing in Random Topology
 - Dumbbell topology consisting of same number of senders and receivers and two routers for showing RTT and RTO modification. 
+
+### Parameters and Metrics 
+#### Parameters 
+- Number of nodes (20, 40, 60, 80, and 100)
+- Number of flows (10, 20, 30, 40, and 50)
+- Number of packets per second (10, 20, 30, 40, and 50)
+- Coverage Area (1000 , 1500 , 2000 , 2500 ,2800 $m2$) 
+#### Metrics 
+- Network Throughput
+- End-to-End Delay
+- Packet Delivery Ratio
+- Packet Drop Ratio 
