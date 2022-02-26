@@ -1,0 +1,5 @@
+
+    m_nFlows(10),
+    m_nPacketsPerSecond(1),
+    m_txRange(1000),
+    m_CovAreaSide(1000),

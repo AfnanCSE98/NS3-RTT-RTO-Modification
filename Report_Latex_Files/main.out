@@ -1,0 +1,18 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Simulated Networks}{}% 2
+\BOOKMARK [1][-]{section.3}{Parameters and Metrics}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Parameters}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Metrics}{section.3}% 5
+\BOOKMARK [1][-]{section.4}{Overview of the proposed algorithm}{}% 6
+\BOOKMARK [1][-]{section.5}{Modifications}{}% 7
+\BOOKMARK [1][-]{section.6}{Comparison}{}% 8
+\BOOKMARK [2][-]{subsection.6.1}{RTT RTO modification}{section.6}% 9
+\BOOKMARK [3][-]{subsubsection.6.1.1}{Access delay of 130ms and 45ms , shared delay 35ms }{subsection.6.1}% 10
+\BOOKMARK [3][-]{subsubsection.6.1.2}{access delay of 140 ms and 50 ms, shared delay 40 ms}{subsection.6.1}% 11
+\BOOKMARK [2][-]{subsection.6.2}{Graphs of 802.11 and 802.15.4 protocol}{section.6}% 12
+\BOOKMARK [3][-]{subsubsection.6.2.1}{802.11 highrate static network}{subsection.6.2}% 13
+\BOOKMARK [3][-]{subsubsection.6.2.2}{802.15.4 lowrate static network}{subsection.6.2}% 14
+\BOOKMARK [1][-]{section.7}{Summary}{}% 15
+\BOOKMARK [2][-]{subsection.7.1}{Explanation of Results found in 802.11 static network}{section.7}% 16
+\BOOKMARK [2][-]{subsection.7.2}{Explanation of Results found in 802.15.4 static network}{section.7}% 17
+\BOOKMARK [2][-]{subsection.7.3}{Explanation of Performance Metrics Result in RTT/RTO modification algorithm}{section.7}% 18

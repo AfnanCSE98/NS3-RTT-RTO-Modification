@@ -1,0 +1,33 @@
+\contentsline {figure}{\numberline {1}{\ignorespaces Algorithm Overview\relax }}{5}{figure.caption.4}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Metric 1\relax }}{6}{figure.caption.5}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Metric 1\relax }}{7}{figure.caption.6}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Metric 2\relax }}{8}{figure.caption.7}%
+\contentsline {figure}{\numberline {5}{\ignorespaces rtt-estimator.c modification\relax }}{9}{figure.caption.8}%
+\contentsline {figure}{\numberline {6}{\ignorespaces tcp-socket-base.h modification\relax }}{9}{figure.caption.9}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Added attributes\relax }}{10}{figure.caption.10}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Added trace sources\relax }}{10}{figure.caption.11}%
+\contentsline {figure}{\numberline {9}{\ignorespaces estimateRtt method modification\relax }}{11}{figure.caption.12}%
+\contentsline {figure}{\numberline {10}{\ignorespaces NewAck and SendEmptypacket method modification\relax }}{11}{figure.caption.13}%
+\contentsline {figure}{\numberline {11}{\ignorespaces DoPeerClose method modification\relax }}{12}{figure.caption.14}%
+\contentsline {figure}{\numberline {12}{\ignorespaces mean retransmission calculation\relax }}{12}{figure.caption.15}%
+\contentsline {figure}{\numberline {13}{\ignorespaces DumbBell Topology\relax }}{13}{figure.caption.16}%
+\contentsline {figure}{\numberline {14}{\ignorespaces Default RTT RTO graph\relax }}{14}{figure.caption.17}%
+\contentsline {figure}{\numberline {15}{\ignorespaces Modified RTT RTO graph\relax }}{14}{figure.caption.18}%
+\contentsline {figure}{\numberline {16}{\ignorespaces Default mean retransmission graph\relax }}{15}{figure.caption.19}%
+\contentsline {figure}{\numberline {17}{\ignorespaces Modified mean retransmission graph\relax }}{15}{figure.caption.20}%
+\contentsline {figure}{\numberline {18}{\ignorespaces Default rto/rtt graph\relax }}{16}{figure.caption.21}%
+\contentsline {figure}{\numberline {19}{\ignorespaces Modified rto/rtt graph\relax }}{16}{figure.caption.22}%
+\contentsline {figure}{\numberline {20}{\ignorespaces Default cwnd graph\relax }}{17}{figure.caption.23}%
+\contentsline {figure}{\numberline {21}{\ignorespaces Modified cwnd graph\relax }}{17}{figure.caption.24}%
+\contentsline {figure}{\numberline {22}{\ignorespaces Default ssth graph\relax }}{18}{figure.caption.25}%
+\contentsline {figure}{\numberline {23}{\ignorespaces Modified ssth graph\relax }}{18}{figure.caption.26}%
+\contentsline {figure}{\numberline {24}{\ignorespaces Default RTT RTO graph\relax }}{19}{figure.caption.27}%
+\contentsline {figure}{\numberline {25}{\ignorespaces Modified RTT RTO graph\relax }}{19}{figure.caption.28}%
+\contentsline {figure}{\numberline {26}{\ignorespaces Default mean retransmission graph\relax }}{20}{figure.caption.29}%
+\contentsline {figure}{\numberline {27}{\ignorespaces Modified mean retransmission graph\relax }}{20}{figure.caption.30}%
+\contentsline {figure}{\numberline {28}{\ignorespaces Default rto/rtt graph\relax }}{21}{figure.caption.31}%
+\contentsline {figure}{\numberline {29}{\ignorespaces Modified rto/rtt graph\relax }}{21}{figure.caption.32}%
+\contentsline {figure}{\numberline {30}{\ignorespaces Default cwnd graph\relax }}{22}{figure.caption.33}%
+\contentsline {figure}{\numberline {31}{\ignorespaces Modified cwnd graph\relax }}{22}{figure.caption.34}%
+\contentsline {figure}{\numberline {32}{\ignorespaces Default ssth graph\relax }}{23}{figure.caption.35}%
+\contentsline {figure}{\numberline {33}{\ignorespaces Modified ssth graph\relax }}{23}{figure.caption.36}%
