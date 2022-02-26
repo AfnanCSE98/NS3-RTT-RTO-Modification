@@ -1,0 +1,4 @@
+  m_nNodes (60),
+    m_nFlows(10),
+    m_txRange(1000),
+    m_CovAreaSide(1000),

@@ -1,0 +1,34 @@
+set datafile sep ','
+
+set terminal pdf
+set output "Throughput_vs_coverageArea.pdf"
+set title "Throughput vs coverageArea"
+set xlabel "coverageArea"
+set ylabel "Throughput"
+plot "output.csv" using 1:2 with linespoints title "Throughput"
+
+set terminal pdf
+set output "EndToEndDelay_vs_coverageArea.pdf"
+set title "EndToEndDelay vs coverageArea"
+set xlabel "coverageArea"
+set ylabel "EndToEndDelay"
+plot "output.csv" using 1:3 with linespoints title "EndToEndDelay"
+
+
+set terminal pdf
+set output "DeliveryRatio_vs_coverageArea.pdf"
+set title "DeliveryRatio vs coverageArea"
+set xlabel "coverageArea"
+set ylabel "DeliveryRatio"
+plot "output.csv" using 1:4 with linespoints title "DeliveryRatio"
+
+
+set terminal pdf
+set output "DropRatio_vs_coverageArea.pdf"
+set title "DropRatio vs coverageArea"
+set xlabel "coverageArea"
+set ylabel "DropRatio"
+plot "output.csv" using 1:5 with linespoints title "DropRatio"
+
+
+

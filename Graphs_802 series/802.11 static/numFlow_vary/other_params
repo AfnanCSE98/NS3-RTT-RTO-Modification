@@ -1,0 +1,4 @@
+ m_nNodes (100),
+    m_nPacketsPerSecond(10),
+    m_txRange(1000),
+    m_CovAreaSide(1000),
